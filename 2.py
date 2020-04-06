@@ -28,12 +28,12 @@ while Gyro.angle() <= 180: # so now we have said that while the gyro value is le
 motor_b.run_angle(500,720,Stop.BREAK,False)
 motor_c.run_angle(500,720,Stop.BREAK,True)
 #this will work unless your robot has your large motors on the opposite side as mine if your robot starts spinning in circles switch the ports of your large motors
-#Harray we did it! Wait that's peculiar it wasn't on it it was a little to the side of where you started
-# okay so how to we fix it? What you hae to do is fox the While loop so that is looks like this
+#Harray we did it! Wait that's peculiar it wasn't going back to the same place where we started it was a little to the side of it.
+# okay so how to we fix it? What you have to do is fix the While loop so that is looks like this
 while Gyro.angle() <= 180:
     motor_b.run_angle(100,10,Stop.COAST,False)
     motor_c.run_angle(-100,10,Stop.COAST,False)#by making the motor_c turn the opposite direction you are making a in place turn so that when you run it you can make the ev3 on the samme place that it was originally
 #Note: To make it more exact make the speed less turning but still make sure motor_c's speed is the exact opposite of motor_b
-#Note: If the robot is to jerky make the distance less if it is countinuly missing the target no matter what you change the speed to make the distance less
+#Note: If the robot is too jerky, make the distance less if it is countinuly missing the target no matter what you change the speed to make the distance less
 #Harray we actually did it! Actually! No mistakes!
 #okay last thing if you are trying to not readd this and just running it it will not work perfectly you will have to mak your own and edit to match your ev3 robot.
