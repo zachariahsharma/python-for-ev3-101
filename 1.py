@@ -1,7 +1,4 @@
 #!/usr/bin/env pybricks-micropython
-# Author: Zachariah Krish Sharma
-# Version: 0.1
-
 # the funky thing up on the first line is for telling python that we are using micropython not regular python
 # okay but what's that hash tag beside these things? that is the comments it tells python to forget whatever is after it
 # These are imports they are used to inform python how to use the brick
