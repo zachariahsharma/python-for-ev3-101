@@ -4,5 +4,5 @@ from pybricks.ev3devices import (Motor, TouchSensor, ColorSensor,
 from pybricks.robotics import DriveBase, Stop
 from pybricks.parameters import Port
 from pybricks.tools import wait
-import test
-test.run()
+import program_2
+program_2.run()
