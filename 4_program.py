@@ -15,5 +15,3 @@ def Gyro_Turn(Gyro,motor_b,motor_c,degrees,speed,clockwise):
             motor_c.run(-speed)
     motor_b.stop(Stop.BRAKE)
     motor_c.stop(Stop.BRAKE)
-
-
