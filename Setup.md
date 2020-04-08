@@ -17,4 +17,4 @@ Now that you have you materials lets get started.
 
 **Step One**:
 Download Visual Studio Code or go to https://code.visualstudio.com/ when you open the webite you should see this:
-![Visual Studio Code Download](2020-04-08_12-27-16.snagproj)
+<img src = "2020-04-08_12-27-16.png">
