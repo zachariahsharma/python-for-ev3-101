@@ -22,7 +22,9 @@ Click "Download" and then select whichever os you are on. Once you have download
 
 **Step Two: Get the MicroPython Extention**
 Visual Studio Code has a Extention called "LEGO® MINDSTORMS® EV3 MicroPython" To get this go to the Extentions tab on the far left it will look like this
+
 ![](images/ScreenShot2020-04-08at1.55.25PM.png) 
+
 click this and search up LEGO® MINDSTORMS® EV3 MicroPython and once you install that you are ready to use micropython. There will be a tab on the left most column that has the ev3 symbol. Once you click the symbol then it will look like this:
 ![](images/ScreenShot2020-04-08at2.02.58PM.png)
 click the
