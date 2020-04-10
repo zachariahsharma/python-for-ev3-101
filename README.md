@@ -3,7 +3,7 @@
 
 ## Why am I doing this?
 
-Hi my name is Zach. I am participating in a competition called FLL. This is a robotics competition in which we build a robot and use it to solve different problems called missions. Before we programmed missions using a language called labview, unfortunately it was updated and switched to scratch. my team and I were faced with 2 choises:
+Hi my name is Zach. I am participating in a competition called FLL. This is a robotics competition in which we build a robot and use it to solve different problems called missions. Before we programmed missions using a language called labview, unfortunately it was updated and switched to scratch which is a programming language that none of us were familiar with. My team and I were faced with 2 choises:
 
 - Switching to Scratch
 - Switching to Micropython
