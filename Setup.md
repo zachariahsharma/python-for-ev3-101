@@ -7,7 +7,7 @@ __Materials you will need:__
 - A Windows 10 or Mac OS computer
 - Internet access and administrator access(you will only need this for installation though)
 
-- You will need a MicroSD card that is at least 4GB and up to 32GB also it's also reccomended to have a Application Performance that is Class A1.
+- You will need a MicroSD card that is at least 4GB and up to 32GB also it's also recommended to have a Application Performance that is Class A1.
 
 - A microSD card reader in your computer
 
