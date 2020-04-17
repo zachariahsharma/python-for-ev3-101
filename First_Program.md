@@ -9,7 +9,7 @@ When you open a new project it looks something like this:
 
 from pybricks import ev3brick as brick                                          2
 from pybricks.ev3devices import (Motor, TouchSensor, ColorSensor,
-                                InfraredSensor, UltrasonicSensor, GyroSensor) 
+                                InfraredSensor, UltrasonicSensor, GyroSensor)
 from pybricks.parameters import (Port, Stop, Direction, Button, Color,
                                 SoundFile, ImageFile, Align)
 from pybricks.tools import print, wait, StopWatch
@@ -32,7 +32,7 @@ Okay this is great but this isn't really what I am going to talk about in this c
 
 from pybricks import ev3brick as brick
 from pybricks.ev3devices import (Motor, TouchSensor, ColorSensor,
-                                InfraredSensor, UltrasonicSensor, GyroSensor) 
+                                InfraredSensor, UltrasonicSensor, GyroSensor)
 from pybricks.parameters import (Port, Stop, Direction, Button, Color,
                                 SoundFile, ImageFile, Align)
 from pybricks.tools import print, wait, StopWatch
@@ -54,9 +54,10 @@ This is clearing the display, it's pretty straightforward, I mean it literally s
 ```python
 brick.display.text("Hello World")
 ```
+
 Hurray we finished it, this really wasn't that hard right? I think now we can move on to things that are a little more harder.
 **Note: You have to put this code in your main file or else it won't run**
 
 When we run this we see that it only flickers hello world in the top left corner. We will resolve this bug in later chapters.
 
-[](Second_Program.md)
+[Click This to Go to the Second Chapter: The dog goes,"Bark"](Second_Program.md)

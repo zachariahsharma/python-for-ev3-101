@@ -8,6 +8,4 @@ from pybricks.parameters import (Port, Stop, Direction, Button, Color,
 from pybricks.tools import print, wait, StopWatch
 from pybricks.robotics import DriveBase
 
-brick.display.clear()
-
-brick.display.text("Hello World")
+brick.sound.file(SoundFile.DOG_BARK_1)

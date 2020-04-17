@@ -35,21 +35,21 @@ Click "Create a new project" and then enter any name that you want.
 **Step Three: Installing Balena Etcher**
 
 Before you start programming you need to get your MicroSD card ready. This means you have Micropython installed on it. But to accomplish this you need Etcher which is a flashing tool for installing things on MicroSD Cards.
-To install Balena Etcher go to https://www.balena.io/etcher/ and it will look like this:
+To install Balena Etcher go to <https://www.balena.io/etcher/> and it will look like this:
 
-![](images/ScreenShot2020-04-09at4.28.01PM.png)
+![Balena Etcher](images/ScreenShot2020-04-09at4.28.01PM.png)
 
 In the center it should say "Download for" and then whichever os you are on. After you have pressed this it will download Etcher but you will have to follow a series of steps.
 
 ****
 **Step Four: Flash the MicroSD card**
 click this [to download the image for your MicroSD Card](https://le-www-live-s.legocdn.com/sc/media/files/ev3-micropython/ev3micropythonv100sdcardimage-4b8c8333736fafa1977ee7accbd3338f.zip) once you have it then go back to Etcher and it should look like this:
-![](images/ScreenShot2020-04-09at4.42.19PM.png)
+![balena Etcher](images/ScreenShot2020-04-09at4.42.19PM.png)
 Where it says "image" click and select the file you downloaded and it should let you continue. Once you have finished that, put your MicroSD card into your computer. After that click "Target" and you should be able to select that MicroSD card you just put in the computer. Lastly click "Flash!" and it will Flash your MicroSD card with Micropython.
 ****
 **Step Five: Start it up!**
 Go to your EV3 Brick and put the sd card in the SD Port as shown:
-![](images/ev3brick.jpg)
+![ev3brick](images/ev3brick.jpg)
 Once you place it in there then you turn on the brick and after a few minutes  Micropython will open up. Then use the EV3 Wire and use it to connect your EV3 to your computer.
 
 Go to Visual Studio Code and at the left most side there will be a tab called the explorer tab. When you go there then at the bottom there will be a dropdown called the "EV3DEV Device Browser." Under that there it will say "Click here to connect to a device" Click this and it will ask you which robot you want to pick, although there will be one robot there and a button that says,"I don't see my device..." Click your EV3 and under the device browser it will show you device and there will be a color under it waiting for it to turn green signalling that your robot is connected.
