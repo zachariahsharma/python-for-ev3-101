@@ -25,7 +25,7 @@ Okay let's look at the first line(1) it has a jumble of a lot of different stuff
 Okay this is great but this isn't really what I am going to talk about in this chapter.
 
 ***
-**The Hello World Code:**
+##The Hello World Code:
 
 ```python
 #!/usr/bin/env pybricks-micropython

@@ -27,7 +27,7 @@ Visual Studio Code has an Extension called "LEGO® MINDSTORMS® EV3 MicroPython"
 
 ![](images/ScreenShot2020-04-08at1.55.25PM.png) 
 
-Click this and search up LEGO® MINDSTORMS® EV3 MicroPython this extension was made by LEGO for the use of Micropython. There will be a tab on the left most column that has the ev3 symbol. Once you click the symbol then it will look like this:
+Click this and search up LEGO® MINDSTORMS® EV3 MicroPython this extension was made by LEGO for the use of Micropython. There will be a tab on the left most column that has the EV3 symbol. Once you click the symbol then it will look like this:
 ![](images/ScreenShot2020-04-08at2.02.58PM.png)
 Click "Create a new project" and then enter any name that you want.
 
