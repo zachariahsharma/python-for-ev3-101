@@ -16,8 +16,6 @@ I will use 25 programs to help someone to transition to Micropython. I will incl
  
 ## Table of Contents
 - [Setup](Setup.md)
-
-
-
 - [Hello, World](First_Program.md)
-- [The dog goes,"Bark"](Second_Program.md)
+- [Variables, Strings, Integers and Booleans](third_program.md)
+<!-- - [The Dog Goes,"Bark"](Second_Program.md) -->
