@@ -18,4 +18,4 @@ I will use 25 programs to help someone to transition to Micropython. I will incl
 - [Setup](Setup.md)
 - [Hello, World](First_Program.md)
 - [Variables, Strings, Integers and Booleans](third_program.md)
-<!-- - [The Dog Goes,"Bark"](Second_Program.md) -->
+- [The Dog Goes,"Bark"](Second_Program.md)
