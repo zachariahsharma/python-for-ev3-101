@@ -114,4 +114,4 @@ In Scratch making a variable would look like this:
 In LabView making a variable would look like this:
 ![labview](images/ScreenShot2020-05-05at5.48.55PM.png)
 
-<!-- [Click This to Go to the Third Chapter: The Dog Goes,"Bark"](Second_Program.md) -->
+[Click This to Go to the Third Chapter: The Dog Goes,"Bark"](Second_Program.md)
