@@ -8,4 +8,8 @@ from pybricks.parameters import (Port, Stop, Direction, Button, Color,
 from pybricks.tools import print, wait, StopWatch
 from pybricks.robotics import DriveBase
 
-variable = float(hi)
+motor_b = Motor(Port.B)
+motor_c = Motor(Port.C)
+
+motor_b.run_angle(500, 720, Stop.BRAKE, False)
+motor_c.run_angle(500, 720, Stop.BRAKE, True)
