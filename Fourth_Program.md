@@ -48,6 +48,8 @@ motor_c.run_angle(500, 720, Stop.BRAKE, True)
 motor_b.run_angle(500, -720, Stop.BRAKE, False)
 motor_c.run_angle(500, -720, Stop.BRAKE, True)
 ```
+
+**Note: all of the properties we have learned here works with the medium motors**
  
 ##What would this look like in LabView or Scratch?
  
