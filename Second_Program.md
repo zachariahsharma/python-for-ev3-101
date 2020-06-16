@@ -78,7 +78,7 @@ Exited with error code 1.
 
 Wow! That's a lot to say. Basically the first line is showing that the brick started running it, the 3rd line is saying that that is the most recent call, The 4th line is where it is, and the fifth line is saying what the error is. It says it's a syntax error but it doesn't tell you what is wrong other than that it has the wrong syntax.
 
-##What would this look like in LabView or Scratch?
+## What would this look like in LabView or Scratch?
 
 In Scratch making a variable would look like this:
 ![](images/ScreenShot2020-05-24at3.28.54PM.png)

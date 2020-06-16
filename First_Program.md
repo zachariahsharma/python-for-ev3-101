@@ -61,7 +61,7 @@ Hurray we finished it, this really wasn't that hard right? I think now we can mo
 
 When we run this we see that it only flickers hello world in the top left corner. We will resolve this bug in later chapters.
 
-##What would this look like in LabView or Scratch?
+## What would this look like in LabView or Scratch?
 
 This is a section we will have in every chapter becuase the point of this book is to help people transition from LabView and Scratch to Micropython. In scratch it will look like this:
 

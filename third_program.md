@@ -104,7 +104,7 @@ brick.display.text(Words_to_display)
 
 This might seem a little peculiar because we just added a line of code instead of shortened it. Yeah, but sometimes it matters more of how easy it is to understand rather than what is faster to type, and it will make it easy for you later because maybe youre gone one time and someone else is coding then it will be easier for them to understand and they will faster be able to add code. Also maybe you are starting again on your code after a pretty long time. You are bound to lose your bearings of what you are doing. So it will be a bunch easier to start again.
 
-##What would this look like in LabView or Scratch?
+## What would this look like in LabView or Scratch?
 
 **Note:** I will show making variables in Scratch and Labview since there wasn't just one program in this chapter.
 
