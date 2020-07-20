@@ -26,7 +26,7 @@ Okay this is great but this isn't really what I am going to talk about in this c
 
 ---
 
-##The Hello World Code:
+## The Hello World Code:
 
 ```python
 #!/usr/bin/env pybricks-micropython
